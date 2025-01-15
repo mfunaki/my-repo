@@ -1,4 +1,4 @@
-name: GITHuB_OUTPUT
+name: GITHUB_OUTPUT
 on: push
 jobs:
     share:
